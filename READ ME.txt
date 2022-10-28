@@ -1,0 +1,2 @@
+To run the program execute the following command in console (with the desired paths and synchronization interval):
+python main.py SourceFolderPath ReplicaFolderPath LogFilePath SynchronizationInterval
