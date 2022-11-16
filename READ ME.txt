@@ -1,2 +1,4 @@
+This is a script for copying the files from one folder into another.
+
 To run the program execute the following command in console, with the desired paths and synchronization interval (in secs):
 python main.py SourceFolderPath ReplicaFolderPath LogFilePath SynchronizationInterval
